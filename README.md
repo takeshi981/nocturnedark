@@ -25,5 +25,5 @@
 * [Web-greeter](https://aur.archlinux.org/packages/web-greeter)
 
 ## Screenshot
-![Screenshot]
+![Screenshot](https://i.imgur.com/aVSxAPC.png "Screenshot")
 ***
